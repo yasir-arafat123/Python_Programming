@@ -1,0 +1,3 @@
+# Encapsulation Private Protected
+
+
